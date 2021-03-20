@@ -1,3 +1,5 @@
+# I DID NOT CREATE THE FRAMEWORK IMPLEMENTING ALPHA-ZERO, I ONLY IMPLEMENTED SHIFTAGO!
+
 # ALPHASHIFTAGO ZERO
 
 The framework for this was copied from https://github.com/suragnair/alpha-zero-general. I implemented the game of Shiftago in 2 versions, modified the code a little to match the game and created a few new models.
